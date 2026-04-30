@@ -34,6 +34,9 @@ pip install -r requirements.txt
 # Running Dashboard
 streamlit run dashboard/dashboard.py
 
+# Live Dashboard URL
+Anda dapat mengakses dashboard yang telah dideploy secara publik melalui tautan berikut: https://bike-sharing-dashboard-nfclkypm5sa6h5dmbvikuw.streamlit.app/
+
 ## 📊 Business Insights
 
 Berdasarkan hasil analisis data yang telah dilakukan, diperoleh beberapa poin penting sebagai berikut:
